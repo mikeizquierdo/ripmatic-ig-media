@@ -64,6 +64,16 @@
  },
  {
   "slot": "12:00",
+  "type": "REELS",
+  "urls": [
+   "https://raw.githubusercontent.com/mikeizquierdo/ripmatic-ig-media/main/tonight_reel.mp4"
+  ],
+  "cover_url": "https://raw.githubusercontent.com/mikeizquierdo/ripmatic-ig-media/main/teaser_cover.jpg",
+  "caption": "TONIGHT. 15 Topps Chrome Marvel cards, every one starts at $1. Yes, even the /25s.\n\nPriscela goes live at 6:30 PM PT on Whatnot with PSA slab reveals and a 1/1 sketch.\n\nFollow @ripmatics on Whatnot and set a reminder: whatnot.com/user/ripmatics\n\nWhich one are you taking home? Tell us below.\n\n#marvelcards #toppschrome #toppschromemarvel #marvelcollector #tradingcards #whatnot #thehobby #cardcollector",
+  "label": "TONIGHT Reel"
+ },
+ {
+  "slot": "12:00",
   "type": "STORIES",
   "urls": [
    "https://raw.githubusercontent.com/mikeizquierdo/ripmatic-ig-media/main/stories/s08_75.jpg"
